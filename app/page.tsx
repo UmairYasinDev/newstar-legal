@@ -60,7 +60,7 @@ export default function HomePage() {
                 Welcome to <span className="text-secondary">New Star</span> Internet
               </h1>
               <p className="mx-auto mb-8 max-w-2xl text-lg text-primary-light md:text-xl">
-                Pakistan&apos;s fastest-growing ISP delivering reliable, high-speed internet to keep you connected to what matters most.
+                Pakistan s fastest-growing ISP delivering reliable, high-speed internet to keep you connected to what matters most.
               </p>
               <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
                 <Button size="lg" variant="secondary" className="group">
@@ -81,7 +81,7 @@ export default function HomePage() {
               Why Choose New Star?
             </h2>
             <p className="mx-auto max-w-2xl text-lg text-gray-600">
-              We're not just an internet provider—we're your partner in staying connected to the digital world.
+              We are not just an internet provider— we are your partner in staying connected to the digital world.
             </p>
           </div>
 
@@ -139,7 +139,7 @@ export default function HomePage() {
               Ready to Experience the Difference?
             </h2>
             <p className="mx-auto mb-8 max-w-2xl text-lg text-primary-light">
-              Join thousands of satisfied customers who've made the switch to New Star Internet.
+              Join thousands of satisfied customers who have made the switch to New Star Internet.
             </p>
             <Button size="lg" variant="secondary" className="group">
               <span>Contact Us Today</span>
