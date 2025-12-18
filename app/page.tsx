@@ -60,7 +60,7 @@ export default function HomePage() {
                 Welcome to <span className="text-secondary">New Star</span> Internet
               </h1>
               <p className="mx-auto mb-8 max-w-2xl text-lg text-primary-light md:text-xl">
-                Pakistan's fastest-growing ISP delivering reliable, high-speed internet to keep you connected to what matters most.
+                Pakistan&apos;s fastest-growing ISP delivering reliable, high-speed internet to keep you connected to what matters most.
               </p>
               <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
                 <Button size="lg" variant="secondary" className="group">
